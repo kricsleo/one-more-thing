@@ -1,0 +1,17 @@
+{
+  "name": "@kricsleo/one-more-thing",
+  "version": "1.0.0",
+  "description": "utils collection",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*"
+  ],
+  "repository": "git@github.com:kricsleo/one-more-thing.git",
+  "author": "kricsleo <kriclseo@163.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  }
+}
